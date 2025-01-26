@@ -39,7 +39,7 @@ ul {
 }
 /* Apply a background image to the body */
 .background-image {
-    background-image: url('mountains.jpeg');
+    background-image: url('mountains.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -160,7 +160,7 @@ ul {
 .section h2 {
     font-size: 36px;
     margin-bottom: 20px;
-    color: #4caf50;
+    color: #f7f8f7;
 }
 
 .section p {
